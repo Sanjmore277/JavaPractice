@@ -28,10 +28,12 @@ public class Variabledemo {
 		
 		// one more way to write this code 
 		
-	int a=10,b=20,c=30;
+	int a=10,b=20,c=30,d=40;
 	System.out.println("Value of a is: "+a);
 	System.out.println("Value of b is: "+b);
 	System.out.println("Value of c is: "+c);
+	System.out.println("Value of d is: "+d);
+	
     
    
 
