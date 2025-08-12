@@ -15,8 +15,28 @@ public class DatatypeDemo {
         short sh=250;
         System.out.println(sh);
         
-        long l=123456789;
+        long l=12345678334282286l;
         System.out.println(l);
+        
+        float price=150.50f;
+        System.out.println(price);
+        
+        double item_price=145.72654;
+        System.out.println(item_price);
+        
+        char grade='B';
+        System.out.println("Grade of student is:"+grade);
+        
+        boolean x=true;
+        System.out.println(x);
+        
+        String person="Sanjay";
+        System.out.println(person);
+        
+        
+        
+        
+        
         
         
 	}
